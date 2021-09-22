@@ -5,5 +5,5 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         int first = sc.nextInt();
 
-        DurationString.getDurationString(first);}
+       DaysOfChristmas.displayChristmasGift(first);}
 }
