@@ -20,5 +20,6 @@ public class SumTenUserNumbers {
             scanner.nextLine();
         }
         System.out.println("The sum of the " + order + " valid numbers entered is " + sum);
+   scanner.close();
     }
 }
